@@ -1,5 +1,8 @@
-- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Source changelog (https://t.me/ProjectInfinityX/1903)
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Initial build
-- Shipped MotoCamera4
-- Added Dolby Atmos and Dolby Vision support
+- Added Viperx4ANDROID
+- Switched to Sedona Kernel and updated to latest changes from qcom_sm8350
+- Fixed lags with screen recording
+- Added MSM IRQ balancer configuration
+- Addressed some sepolicy denials
+- Introduce a stub holi-post-boot script
